@@ -1,3 +1,4 @@
 <?php
-file test from testFromgit.php
+//file test from testFromgit.php
+//nie da sie dokonac zmian z netbeans
 ?>
