@@ -1,1 +1,3 @@
-testIndex.p
+<?php 
+//tylko komentarz
+?>
