@@ -6,4 +6,4 @@
  * and open the template in the editor.
  */
 
-//teraz dziala jak chce ///
+//teraz dziala jak chce??? ///
