@@ -1,3 +1,3 @@
 <?php 
-//tylko komentarz to dwa// stamp
+//tylko komentarz to dwa// stamp 2
 ?>
